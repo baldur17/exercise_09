@@ -1,0 +1,25 @@
+{
+  "name": "exercise_09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldur17/exercise_09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baldur17/exercise_09/issues"
+  },
+  "homepage": "https://github.com/baldur17/exercise_09#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "supertest": "^3.3.0"
+  }
+}
